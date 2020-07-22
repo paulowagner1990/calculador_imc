@@ -1,6 +1,15 @@
-# calculadora_imc
+# Calculador IMC
 
-A new Flutter project.
+Projeto desenvolvido juntamente com as aula do Daniel Colfi. 
+Aplicativo desenvolvido em Flutter.
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
